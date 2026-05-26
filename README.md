@@ -95,3 +95,4 @@ Type in the second sequence = [2 1 3 5 6 3 5 9]
 Calculation:
 
 Result:
+Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
