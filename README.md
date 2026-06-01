@@ -84,15 +84,21 @@ xtitle("Cross Correlation", "Lag", "Amplitude");
 ```
 
 Output:
-i) Mean of X =  Mean of Y = 
+i) Mean of X = 0.333 Mean of Y = 0.333
 
-ii) Variance of X = Variance of Y =
+ii) Variance of X = 0.222 Variance of Y = 0.222
 
 Cross Correlation Type in the reference sequence = [1 2 3 4 5 6 7 8]
 
 Type in the second sequence = [2 1 3 5 6 3 5 9]
 
 Calculation:
+
+<img width="784" height="1280" alt="WhatsApp Image 2026-06-01 at 6 16 25 PM" src="https://github.com/user-attachments/assets/4ae958bd-f17c-4b71-bc83-51aeb2fa4b88" />
+
+<img width="799" height="1280" alt="WhatsApp Image 2026-06-01 at 6 17 04 PM" src="https://github.com/user-attachments/assets/f12cc0d4-cf0d-4e8d-96f2-0a0efff4e949" />
+
+<img width="838" height="1280" alt="WhatsApp Image 2026-06-01 at 6 17 47 PM" src="https://github.com/user-attachments/assets/494f3480-d7a7-479c-84e8-fda3ac656150" />
 
 Result:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
